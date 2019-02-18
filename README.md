@@ -1,4 +1,4 @@
-# BasicSentimentAnalysis
+# Basic Sentiment Analysis
 
 Identify the Sentiments
 
